@@ -1,0 +1,19 @@
+nav ul {
+  display: flex;
+  list-style-type: none;
+}
+
+nav li {
+  margin-right: 20px;
+}
+
+nav a:link, nav a:visited {
+  text-decoration: none;
+  color: chartreuse;
+  opacity: 0.8;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: chartreuse;
+}
